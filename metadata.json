@@ -1,0 +1,6 @@
+{
+  "name": "Invoice Agent Filter & Printer",
+  "description": "Upload multi-invoice PDF files, extract Sales Agent names and invoice details using Gemini AI, filter by agent, and print the filtered invoices perfectly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
